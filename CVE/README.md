@@ -1,6 +1,7 @@
 在浏览器搜索栏里面输入http://175.27.190.30/web.zip
 
-![image-20231130123250025](assets/image-20231130123250025.png)
+![image](https://github.com/juraorab/cve/assets/93175727/7cfa3d1c-a3a0-4c82-a29b-15dd1f56647e)
+
 
 ![image-20231130130844665](assets/image-20231130130844665.png)
 
