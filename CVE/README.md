@@ -41,7 +41,7 @@ Replace session
 ![image](https://github.com/juraorab/cve/assets/93175727/b1fe6472-a99d-4045-859f-71305a2046ea)
 
 
-成功登录后台页面
+Successfully logged into the backend page
 
 ![image](https://github.com/juraorab/cve/assets/93175727/0ed1c8ef-0972-4f08-9190-b72d4a5f5073)
 
