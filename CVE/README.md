@@ -2,14 +2,11 @@
 PBootcms has session leakage
 version V3.1.2
 
+![image](https://github.com/juraorab/cve/assets/93175727/7e37e538-e0d3-424e-bab8-b0069f61decf)
 
 Enter in the browser search bar ttp://175.27.190.30/web.zip
 
 ![image](https://github.com/juraorab/cve/assets/93175727/1e949220-45f3-4050-9b39-c3cea438e5ec)
-
-
-
-![image](https://github.com/juraorab/cve/assets/93175727/7e37e538-e0d3-424e-bab8-b0069f61decf)
 
 
 Successfully downloaded backup file to local location
