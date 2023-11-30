@@ -1,5 +1,7 @@
 
 PBootcms has session leakage
+
+
 version V3.1.2
 
 ![image](https://github.com/juraorab/cve/assets/93175727/7e37e538-e0d3-424e-bab8-b0069f61decf)
